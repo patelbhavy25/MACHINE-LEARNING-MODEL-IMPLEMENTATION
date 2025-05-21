@@ -101,24 +101,28 @@ Classification Report: Gives precision, recall, and F1-score for both spam and h
 
 # outputs
 
-# shell 1 output
+# shell 1 output (sample e-mail data)
+
+<img width="372" alt="Image" src="https://github.com/user-attachments/assets/7c3727f1-8c11-46ef-8060-ebad62f6bd38" />
 
 
 
+# shell 2 output (Train-Test Split)
 
-# shell 2 output
-
-
-
-
-# shell 3 output
+<img width="222" alt="Image" src="https://github.com/user-attachments/assets/7256041e-5b45-4279-ab6f-881a81cc17c1" />
 
 
 
+# shell 3 output (traning and testing sample)
 
-# shell 4 output
+<img width="154" alt="Image" src="https://github.com/user-attachments/assets/cb20966a-b068-4eae-a148-eb7fc85db275" />
 
 
+# shell 4 output ( traning complete)
+
+<img width="206" alt="Image" src="https://github.com/user-attachments/assets/610c33ce-6806-4524-a840-93c741eb0b02" />
 
 
-# shell 5 output
+# shell 5 output ( Predictions / final output)
+
+<img width="462" alt="Image" src="https://github.com/user-attachments/assets/83d2cd1d-1145-45cb-86ca-86ab16773bfc" />
